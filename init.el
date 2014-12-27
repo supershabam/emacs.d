@@ -7,6 +7,10 @@
 
 (add-to-list 'load-path (expand-file-name "lisp" user-emacs-directory))
 
+; don't make backups plz
 (setq make-backup-files nil)
+; let me live my life menu bar
+(menu-bar-mode -1)
 
 (require 'init-package)
+(require 'init-helm)
