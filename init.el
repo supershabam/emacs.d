@@ -13,6 +13,7 @@
 (menu-bar-mode -1)
 
 (require 'init-copy)
+(require 'init-mouse)
 (require 'init-package)
 (require 'init-helm)
 (require 'init-projectile)
