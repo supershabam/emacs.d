@@ -12,6 +12,7 @@
 ; let me live my life menu bar
 (menu-bar-mode -1)
 
+(require 'init-copy)
 (require 'init-package)
 (require 'init-helm)
 (require 'init-projectile)
