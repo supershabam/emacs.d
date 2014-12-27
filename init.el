@@ -14,3 +14,4 @@
 
 (require 'init-package)
 (require 'init-helm)
+(require 'init-projectile)
