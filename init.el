@@ -17,5 +17,7 @@
 (require 'init-package)
 (require 'init-helm)
 (require 'init-projectile)
+(require 'init-popwin)
+(require 'init-linum)
 (require 'init-evil)
 (require 'init-go)
